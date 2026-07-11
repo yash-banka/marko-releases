@@ -5,6 +5,16 @@
     <link>https://raw.githubusercontent.com/yash-banka/marko-releases/main/appcast.xml</link>
     <description>Update feed for Marko, a native macOS Markdown viewer.</description>
     <language>en</language>
+    <item>
+      <title>Marko 0.1.3</title>
+      <pubDate>Sat, 11 Jul 2026 07:08:36 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Visible Find button in the toolbar, print/export PDF now always uses the light appearance (fixes black Mermaid diagrams when printing from dark mode), and in-app auto-updates via Sparkle.]]></description>
+      <enclosure url="https://github.com/yash-banka/marko-releases/releases/download/v0.1.3/Marko.dmg" sparkle:edSignature="yJZxYIiqxHqXnBcGZsXx/XxxzN27DtW5Lgew4koaS2nJ397PiD9BLDOmiqOf0XIaoLt8P2P0N7tVUL1vnFIFBA==" length="4888574" type="application/octet-stream" />
+    </item>
+
     <!-- Items are appended here by Packaging/release.sh starting with the
          first release built with Sparkle support (v0.1.3). Earlier versions
          (v0.1.0-v0.1.2) predate the updater and have no entry — those users

@@ -6,6 +6,16 @@
     <description>Update feed for Marko, a native macOS Markdown viewer.</description>
     <language>en</language>
     <item>
+      <title>Marko 0.1.7</title>
+      <pubDate>Sat, 11 Jul 2026 19:35:44 +0000</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[DMG now uses the standard macOS disk image icon.]]></description>
+      <enclosure url="https://github.com/yash-banka/marko-releases/releases/download/v0.1.7/Marko.dmg" sparkle:edSignature="fUwopUwODwudZiZMvHlvCkSTkUYkYT49ecOkYpmb5ReJxAf4xG5oh+33CeT4JZPjdM6xq6dT07ZfMBRlwk4BAQ==" length="4228355" type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Marko 0.1.6</title>
       <pubDate>Sat, 11 Jul 2026 19:22:26 +0000</pubDate>
       <sparkle:version>7</sparkle:version>

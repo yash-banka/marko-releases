@@ -10,6 +10,8 @@ Source code lives in a private repository; this repo publishes only the built ap
 
 Requires macOS 14+ (Apple Silicon & Intel, universal binary).
 
+See [CHANGELOG.md](CHANGELOG.md) for the full version history.
+
 ### First launch
 
 Marko isn't notarized yet, so macOS Gatekeeper blocks a plain double-click on first run:

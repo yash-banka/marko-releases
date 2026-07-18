@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/hero-light.png" alt="Marko rendering a Markdown document, with the outline sidebar open" width="900">
+  <img src="assets/hero-light.png" alt="Marko in light mode: outline sidebar, YAML front matter rendered as a table, headings, prose and a GFM table" width="900">
 </p>
 
 ## What it does
@@ -36,7 +36,7 @@ code, tables, diagrams and math — instead of showing you raw plain text.
 - **Universal** binary (Apple Silicon and Intel), about 5 MB
 
 <p align="center">
-  <img src="assets/hero-dark.png" alt="Marko in dark mode" width="900">
+  <img src="assets/hero-dark.png" alt="Marko in dark mode: a Mermaid flowchart, KaTeX inline and display math, and syntax-highlighted Swift" width="900">
 </p>
 
 ## Install

@@ -5,6 +5,22 @@ viewer. Each version links to its download.
 
 **[Download the latest release](https://github.com/yash-banka/marko-releases/releases/latest/download/Marko.dmg)** · [Install instructions](README.md)
 
+## [1.1.0](https://github.com/yash-banka/marko-releases/releases/tag/v1.1.0) — 2026-07-19
+
+Document Intelligence, powered by Apple Intelligence. Summarize a document, ask questions about it, or select a passage and have it explained. It all runs on device, so nothing leaves your Mac.
+
+Also new:
+
+* Text zoom in Safari-style steps from 50% to 300%, via the new A A control or the usual keyboard shortcuts.
+* Open With, to hand the file you are reading to your real editor in one click. It remembers your pick.
+* Share now shares the Markdown source itself, so Copy puts the raw text on your clipboard and Mail carries it in the body.
+* Choose which toolbar buttons you want, under Settings then Toolbar.
+* Send Feedback, in the Help menu.
+
+Fixed: a long URL no longer pushes the page into sideways scrolling.
+
+The Document Intelligence panel needs a Mac with Apple Intelligence. Everything else runs on any Mac with macOS 14 or later.
+
 ## [1.0.1](https://github.com/yash-banka/marko-releases/releases/tag/v1.0.1) — 2026-07-15
 
 Fixes a crash that stopped Marko from opening documents on any Mac other than the one it was built on. The app icon now adapts to light and dark mode.

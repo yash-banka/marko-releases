@@ -2,7 +2,7 @@
 
 <p align="center">
   A fast, native Markdown viewer for macOS.<br>
-  Free, fully offline, universal.
+  Free, private, universal.
 </p>
 
 <p align="center">
@@ -25,18 +25,40 @@ Opens `.md` files and renders them properly — clean typography, syntax-highlig
 code, tables, diagrams and math — instead of showing you raw plain text.
 
 - **Native** — Swift and SwiftUI, with Finder-style window tabs
-- **Offline** — everything renders locally; no network, ever
+- **Private** — your documents render on your Mac and never leave it. Marko
+  checks for updates, and can send anonymised error reports, which you can turn
+  off in Settings
 - **Viewer only** — Marko never modifies your files
 - **Live reload** — edit in your editor, the preview updates as you save
+- **Document Intelligence** — summarize a document, ask it questions, or explain
+  a selected passage, all on device (needs a Mac with Apple Intelligence)
 - **Outline sidebar** — jump to any heading
 - **Find in page** (⌘F) and **Print / Export PDF** (⌘P)
+- **Open With** — hand the file to your real editor in one click
+- **Share** the Markdown source itself, so Copy gives you the raw text
 - **Renders** GFM tables and task lists, footnotes, definition lists, YAML front
   matter, [Mermaid](https://mermaid.js.org) diagrams and [KaTeX](https://katex.org) math
-- **Light, Dark and System** themes, with adjustable text size
-- **Universal** binary (Apple Silicon and Intel), about 5 MB
+- **Light, Dark and System** themes, with text zoom from 50% to 300%
+- **Customizable toolbar** — choose which buttons you want
+- **Universal** binary (Apple Silicon and Intel), and compact
 
 <p align="center">
-  <img src="assets/hero-dark.png" alt="Marko in dark mode: a Mermaid flowchart, KaTeX inline and display math, and syntax-highlighted Swift" width="900">
+  <img src="assets/hero-dark.png" alt="Marko in dark mode: a Mermaid flowchart, KaTeX inline and display math, and the start of a syntax-highlighted code block" width="900">
+</p>
+
+## Document Intelligence
+
+Marko can summarize the document you are reading, answer questions about it, and
+explain any passage you select. It runs on Apple Intelligence, on device, so the
+document is never uploaded anywhere.
+
+Open it with ⌥⌘I, or select text, right-click, and choose **Explain Selection**.
+
+Needs a Mac that supports Apple Intelligence. Everything else in Marko works on
+any Mac running macOS 14 or later.
+
+<p align="center">
+  <img src="assets/hero-intelligence.png" alt="The Document Intelligence panel open beside a document, showing a generated TL;DR and a list of key points" width="900">
 </p>
 
 ## Install

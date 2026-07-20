@@ -21,26 +21,30 @@
 
 ## What it does
 
-Opens `.md` files and renders them properly — clean typography, syntax-highlighted
-code, tables, diagrams and math — instead of showing you raw plain text.
+Open a Markdown file and read it the way it was meant to look. Marko renders your
+`.md` files with real typography, syntax-highlighted code, tables, diagrams, and
+math. No more raw text.
 
-- **Native** — Swift and SwiftUI, with Finder-style window tabs
-- **Private** — your documents render on your Mac and never leave it. Marko
-  checks for updates, and can send anonymised error reports, which you can turn
-  off in Settings
-- **Viewer only** — Marko never modifies your files
-- **Live reload** — edit in your editor, the preview updates as you save
-- **Document Intelligence** — summarize a document, ask it questions, or explain
-  a selected passage, all on device (needs a Mac with Apple Intelligence)
-- **Outline sidebar** — jump to any heading
-- **Find in page** (⌘F) and **Print / Export PDF** (⌘P)
-- **Open With** — hand the file to your real editor in one click
-- **Share** the Markdown source itself, so Copy gives you the raw text
-- **Renders** GFM tables and task lists, footnotes, definition lists, YAML front
-  matter, [Mermaid](https://mermaid.js.org) diagrams and [KaTeX](https://katex.org) math
-- **Light, Dark and System** themes, with text zoom from 50% to 300%
-- **Customizable toolbar** — choose which buttons you want
-- **Universal** binary (Apple Silicon and Intel), and compact
+- **Native.** Built in Swift and SwiftUI, with Finder-style window tabs.
+- **Private.** Your documents render on your Mac and never leave it. Marko checks
+  for updates and can send anonymous error reports, which you can turn off in
+  Settings.
+- **Viewer only.** Marko never changes your files.
+- **Live reload.** Keep editing wherever you already do. The preview updates the
+  moment you save.
+- **Document Intelligence.** Summarize a document, ask questions about it, or
+  explain a passage you select, all on device. Needs a Mac with Apple
+  Intelligence.
+- **Outline sidebar.** Jump to any heading.
+- **Find and print.** Find in page with ⌘F. Print or export a PDF with ⌘P.
+- **Open With.** Send the file to your editor in one click.
+- **Share.** Share the Markdown source itself, so Copy puts the raw text on your
+  clipboard.
+- **All of GFM.** Tables and task lists, footnotes, definition lists, YAML front
+  matter, [Mermaid](https://mermaid.js.org) diagrams, and [KaTeX](https://katex.org) math.
+- **Themes and zoom.** Light, Dark, and System. Text from 50% to 300%.
+- **Your toolbar.** Choose which buttons to show.
+- **Universal.** One app for Apple Silicon and Intel. And it's small.
 
 <p align="center">
   <img src="assets/hero-dark.png" alt="Marko in dark mode: a Mermaid flowchart, KaTeX inline and display math, and the start of a syntax-highlighted code block" width="900">
@@ -48,14 +52,15 @@ code, tables, diagrams and math — instead of showing you raw plain text.
 
 ## Document Intelligence
 
-Marko can summarize the document you are reading, answer questions about it, and
-explain any passage you select. It runs on Apple Intelligence, on device, so the
-document is never uploaded anywhere.
+Summarize what you're reading. Ask a question about it. Select a passage and have
+it explained. Document Intelligence does all of this on device, powered by Apple
+Intelligence, so your document never leaves your Mac.
 
-Open it with ⌥⌘I, or select text, right-click, and choose **Explain Selection**.
+Open it with ⌥⌘I. Or select some text, right-click, and choose **Explain
+Selection**.
 
-Needs a Mac that supports Apple Intelligence. Everything else in Marko works on
-any Mac running macOS 14 or later.
+Document Intelligence needs a Mac with Apple Intelligence. Everything else in
+Marko runs on any Mac with macOS 14 or later.
 
 <p align="center">
   <img src="assets/hero-intelligence.png" alt="The Document Intelligence panel open beside a document, showing a generated TL;DR and a list of key points" width="900">
@@ -63,15 +68,15 @@ any Mac running macOS 14 or later.
 
 ## Install
 
-1. [Download `Marko.dmg`](https://github.com/yash-banka/marko-releases/releases/latest/download/Marko.dmg), open it, and drag **Marko** to **Applications**.
-2. Open Marko from Applications. macOS will refuse to open it and say the
-   developer can't be verified — Marko isn't notarized by Apple yet. Click
-   **Done**. *Do not click "Move to Trash".*
-3. Open **System Settings → Privacy & Security**, scroll to Security, and click
+1. [Download `Marko.dmg`](https://github.com/yash-banka/marko-releases/releases/latest/download/Marko.dmg), open it, and drag **Marko** to your **Applications** folder.
+2. Open Marko from Applications. The first time, macOS won't open it and will say
+   it can't verify the developer. That's expected. Marko isn't notarized by Apple
+   yet. Click **Done**. *Don't click "Move to Trash".*
+3. Go to **System Settings → Privacy & Security**, scroll to Security, and click
    **Open Anyway**.
 
-You only do this once. After that Marko opens normally, and it keeps itself
-updated from within the app.
+You only do this once. After that, Marko opens like any other app and keeps
+itself up to date.
 
 Requires macOS 14 or later.
 

@@ -6,6 +6,26 @@
     <description>Update feed for Marko, a native macOS Markdown viewer.</description>
     <language>en</language>
     <item>
+      <title>Marko 1.2.0</title>
+      <pubDate>Thu, 23 Jul 2026 14:25:36 +0000</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[**Info panel.** Press ⌘I to see a document's details, its word and heading counts, and its YAML front matter, in a panel beside your text.
+
+Also new:
+
+- Make Marko your default Markdown app, from the first-launch prompt or Settings.
+- The outline highlights the section you're reading as you scroll.
+- Links between Markdown files work: click a relative link like `./notes.md` and it opens in a new tab.
+- Checklists look cleaner, and nested checklists no longer break.
+- Headings in any language get working anchor links.
+
+Runs on any Mac with macOS 14 or later.]]></description>
+      <enclosure url="https://github.com/yash-banka/marko-releases/releases/download/v1.2.0/Marko.dmg" sparkle:edSignature="WpF1NeVzZe5Ocs1apXBnxCijvxlsuGF8IvkuVAywX42DzmnLTlpNyU//JJ/AVu0yUU2yV4fJKzMt7vDGYpXhDg==" length="6687286" type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Marko 1.1.0</title>
       <pubDate>Sun, 19 Jul 2026 13:04:27 +0000</pubDate>
       <sparkle:version>11</sparkle:version>

@@ -5,6 +5,20 @@ viewer. Each version links to its download.
 
 **[Download the latest release](https://github.com/yash-banka/marko-releases/releases/latest/download/Marko.dmg)** · [Install instructions](README.md)
 
+## [1.2.0](https://github.com/yash-banka/marko-releases/releases/tag/v1.2.0) — 2026-07-23
+
+**Info panel.** Press ⌘I to see a document's details, its word and heading counts, and its YAML front matter, in a panel beside your text.
+
+Also new:
+
+- Make Marko your default Markdown app, from the first-launch prompt or Settings.
+- The outline highlights the section you're reading as you scroll.
+- Links between Markdown files work: click a relative link like `./notes.md` and it opens in a new tab.
+- Checklists look cleaner, and nested checklists no longer break.
+- Headings in any language get working anchor links.
+
+Runs on any Mac with macOS 14 or later.
+
 ## [1.1.0](https://github.com/yash-banka/marko-releases/releases/tag/v1.1.0) - 2026-07-19
 
 Document Intelligence, powered by Apple Intelligence. Summarize a document, ask questions about it, or select a passage and have it explained. It all runs on device, so nothing leaves your Mac.

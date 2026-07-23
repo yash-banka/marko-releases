@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/hero-light.png" alt="Marko in light mode: outline sidebar, YAML front matter rendered as a table, headings, prose and a GFM table" width="900">
+  <img src="assets/hero-light.png" alt="Marko in light mode: the Info panel open beside a document, showing file details and YAML front matter, next to the outline sidebar, headings, and a GFM table" width="900">
 </p>
 
 ## What it does
@@ -37,11 +37,13 @@ math. No more raw text.
   Intelligence.
 - **Outline sidebar.** Jump to any heading.
 - **Find and print.** Find in page with ⌘F. Print or export a PDF with ⌘P.
+- **Info panel.** Press ⌘I for a document's path, size, and dates, its word,
+  character, and heading counts, reading time, and its YAML front matter.
 - **Open With.** Send the file to your editor in one click.
 - **Share.** Share the Markdown source itself, so Copy puts the raw text on your
   clipboard.
-- **All of GFM.** Tables and task lists, footnotes, definition lists, YAML front
-  matter, [Mermaid](https://mermaid.js.org) diagrams, and [KaTeX](https://katex.org) math.
+- **All of GFM.** Tables and task lists, footnotes, definition lists,
+  [Mermaid](https://mermaid.js.org) diagrams, and [KaTeX](https://katex.org) math.
 - **Themes and zoom.** Light, Dark, and System. Text from 50% to 300%.
 - **Your toolbar.** Choose which buttons to show.
 - **Universal.** One app for Apple Silicon and Intel. And it's small.

@@ -5,6 +5,14 @@ viewer. Each version links to its download.
 
 **[Download the latest release](https://github.com/yash-banka/marko-releases/releases/latest/download/Marko.dmg)** · [Install instructions](README.md)
 
+## [1.3.0](https://github.com/yash-banka/marko-releases/releases/tag/v1.3.0) — 2026-07-26
+
+**Signed and notarized by Apple.** Marko now opens on a normal double-click — no security warning, and nothing to approve in System Settings & Privacy.
+
+That's the whole release. Nothing about how Marko renders your documents has changed; this one is entirely about how it installs.
+
+Runs on any Mac with macOS 14 or later.
+
 ## [1.2.0](https://github.com/yash-banka/marko-releases/releases/tag/v1.2.0) — 2026-07-23
 
 **Info panel.** Press ⌘I to see a document's details, its word and heading counts, and its YAML front matter, in a panel beside your text.

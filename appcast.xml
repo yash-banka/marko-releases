@@ -6,6 +6,20 @@
     <description>Update feed for Marko, a native macOS Markdown viewer.</description>
     <language>en</language>
     <item>
+      <title>Marko 1.3.0</title>
+      <pubDate>Sun, 26 Jul 2026 15:35:10 +0000</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[**Signed and notarized by Apple.** Marko now opens on a normal double-click — no security warning, and nothing to approve in System Settings & Privacy.
+
+That's the whole release. Nothing about how Marko renders your documents has changed; this one is entirely about how it installs.
+
+Runs on any Mac with macOS 14 or later.]]></description>
+      <enclosure url="https://github.com/yash-banka/marko-releases/releases/download/v1.3.0/Marko.dmg" sparkle:edSignature="4HTwEbaR6WFLWxQgOLlmxfkgJLQktc9JvdpAGEuujFPBHa0P68rO83vxzSuhp76KX7jtxcBcwTCoUet5Uw+2AA==" length="6748708" type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Marko 1.2.0</title>
       <pubDate>Thu, 23 Jul 2026 14:25:36 +0000</pubDate>
       <sparkle:version>12</sparkle:version>

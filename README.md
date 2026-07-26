@@ -75,6 +75,17 @@ open it, and drag **Marko** to your **Applications** folder. That's it — Marko
 signed and notarized by Apple, so it opens on a normal double-click, with no
 security warning and nothing to approve.
 
+Or install it from the terminal:
+
+```sh
+brew tap yash-banka/marko
+brew trust yash-banka/marko
+brew install --cask marko
+```
+
+(Homebrew asks you to trust any tap outside its own repositories before it will
+install from one — that middle step is required, and only once.)
+
 Marko keeps itself up to date from then on.
 
 Requires macOS 14 or later.

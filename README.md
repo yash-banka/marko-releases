@@ -70,15 +70,12 @@ Marko runs on any Mac with macOS 14 or later.
 
 ## Install
 
-1. [Download `Marko.dmg`](https://github.com/yash-banka/marko-releases/releases/latest/download/Marko.dmg), open it, and drag **Marko** to your **Applications** folder.
-2. Open Marko from Applications. The first time, macOS won't open it and will say
-   it can't verify the developer. That's expected. Marko isn't notarized by Apple
-   yet. Click **Done**. *Don't click "Move to Trash".*
-3. Go to **System Settings → Privacy & Security**, scroll to Security, and click
-   **Open Anyway**.
+[Download `Marko.dmg`](https://github.com/yash-banka/marko-releases/releases/latest/download/Marko.dmg),
+open it, and drag **Marko** to your **Applications** folder. That's it — Marko is
+signed and notarized by Apple, so it opens on a normal double-click, with no
+security warning and nothing to approve.
 
-You only do this once. After that, Marko opens like any other app and keeps
-itself up to date.
+Marko keeps itself up to date from then on.
 
 Requires macOS 14 or later.
 

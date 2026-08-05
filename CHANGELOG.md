@@ -5,6 +5,10 @@ viewer. Each version links to its download.
 
 **[Download the latest release](https://github.com/yash-banka/marko-releases/releases/latest/download/Marko.dmg)** · [Install instructions](README.md)
 
+## [1.3.1](https://github.com/yash-banka/marko-releases/releases/tag/v1.3.1) — 2026-08-05
+
+Fixed a bug where reloading a document could leave the view blank; it now re-renders correctly. More resilient rendering: if the viewer's content process ever stops, Marko recovers and re-renders instead of getting stuck.
+
 ## [1.3.0](https://github.com/yash-banka/marko-releases/releases/tag/v1.3.0) — 2026-07-26
 
 **Signed and notarized by Apple.** Marko now opens on a normal double-click — no security warning, and nothing to approve in System Settings & Privacy.

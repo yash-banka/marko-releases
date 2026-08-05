@@ -6,6 +6,16 @@
     <description>Update feed for Marko, a native macOS Markdown viewer.</description>
     <language>en</language>
     <item>
+      <title>Marko 1.3.1</title>
+      <pubDate>Wed, 05 Aug 2026 04:02:03 +0000</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Fixed a bug where reloading a document could leave the view blank; it now re-renders correctly. More resilient rendering: if the viewer's content process ever stops, Marko recovers and re-renders instead of getting stuck.]]></description>
+      <enclosure url="https://github.com/yash-banka/marko-releases/releases/download/v1.3.1/Marko.dmg" sparkle:edSignature="VBqa1pvIScphGEzJLbeGhzx56WYOPnE57WezgUdrJq9Enmviy8g6sf7yOhBSprCc2NcrYUUkJzmpsEtfkt0FBA==" length="6766031" type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Marko 1.3.0</title>
       <pubDate>Sun, 26 Jul 2026 15:35:10 +0000</pubDate>
       <sparkle:version>13</sparkle:version>

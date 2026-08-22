@@ -13,6 +13,16 @@
 
 <p align="center">
   <strong><a href="https://github.com/yash-banka/marko-releases/releases/latest/download/Marko.dmg">Download Marko for Mac</a></strong>
+  &nbsp;·&nbsp; or get it on the App Store:
+</p>
+
+<p align="center">
+  <a href="https://apps.apple.com/app/marko-markdown-viewer/id6797180877">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/mac-app-store-badge-white.svg">
+      <img alt="Download Marko on the Mac App Store" src="assets/mac-app-store-badge-black.svg" height="52">
+    </picture>
+  </a>
 </p>
 
 <p align="center">
@@ -87,6 +97,8 @@ brew install --cask marko
 install from one — that middle step is required, and only once.)
 
 Marko keeps itself up to date from then on.
+
+Or get it from the **[Mac App Store](https://apps.apple.com/app/marko-markdown-viewer/id6797180877)** — the same app, sandboxed with zero network access, kept up to date by the App Store.
 
 Requires macOS 14 or later.
 

@@ -5,6 +5,10 @@ viewer. Each version links to its download.
 
 **[Download the latest release](https://github.com/yash-banka/marko-releases/releases/latest/download/Marko.dmg)** · [Install instructions](README.md)
 
+## [1.4.2](https://github.com/yash-banka/marko-releases/releases/tag/v1.4.2) — 2026-10-06
+
+Marko 2.0 is on the Mac App Store, free, with Read Aloud, on-device translation and summaries, and 15 languages. This is the last update to this copy: from now on Marko updates through the Mac App Store. Also: error reports no longer include file names or folder paths.
+
 ## [1.4.0](https://github.com/yash-banka/marko-releases/releases/tag/v1.4.0) — 2026-08-22
 
 New app icon, with Light, Dark, and tinted variants.
